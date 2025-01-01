@@ -3,7 +3,7 @@ This refers to Lord Kubera, the gods' treasurer, who stands for safe and success
 
 # KuberVault - A FinTech Billing and Payment Solution
 
-KuberVault is a responsive and user-friendly web-based billing and payment solution designed to streamline financial transactions. This project, developed using HTML, CSS, and JavaScript, is structured to capture essential billing information while providing a seamless payment gateway experience. The design emphasizes usability and aesthetics, making it an ideal choice for financial operations in various sectors.
+KuberVault Project is a responsive and user-friendly web-based billing and payment solution designed to streamline financial transactions. This project, developed using HTML, CSS, and JavaScript, is structured to capture essential billing information while providing a seamless payment gateway experience. The design emphasizes usability and aesthetics, making it an ideal choice for financial operations in various sectors.
 
 # Key Features
 1. Billing Information Collection-The project includes a comprehensive billing form that captures essential details from users. The form is neatly divided into sections for clarity and better user experience.
