@@ -61,7 +61,7 @@ Form Structure-
 2. Payment Section:
    - The card input field features placeholder text and real-time formatting for error-free data entry.
 3. Submit Button:
-   - A visually striking button that changes color on hover, encouraging users to proceed confidently.
+   - A visually striking button that changes color on hover, encouraging users to proceed confidentially
 ---
 # Glimpse of the Output
 
