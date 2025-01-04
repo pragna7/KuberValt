@@ -29,7 +29,7 @@ The payment section is designed to handle credit card transactions securely and 
 3. Dynamic Input Formatting-
 The credit card number field employs **JavaScript** for real-time formatting. As users type, the script:
 - Removes spaces or invalid characters.
-- Groups digits into blocks of four for easy readability (e.g., `1111 2222 3333 4444`).
+- Groups digits into blocks of four for easy readability (e.g., `1111 2222 3333 4444 5555).
 
 4. Responsive Design
 The interface adapts seamlessly across various screen sizes, ensuring a smooth user experience on desktops, tablets, and mobile devices. The **CSS** ensures visually appealing layouts and intuitive interactions.
