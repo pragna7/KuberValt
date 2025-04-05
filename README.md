@@ -69,9 +69,7 @@ The final output of KuberVault is a polished, functional form that simplifies bi
 - A professional layout with neatly aligned input fields.
 - A visually engaging color scheme with accessible design elements.
 - Smooth input interactions and secure data entry fields.
-
 Upon submission, users are directed to complete their transaction seamlessly, ensuring a hassle-free experience.
-
 ---
 # Potential Use Case-
 - E-Commerce: Serve as a checkout form for online stores.
